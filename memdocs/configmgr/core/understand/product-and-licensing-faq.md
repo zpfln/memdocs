@@ -153,7 +153,7 @@ If you don't have active SA, uninstall the current branch, and then install the 
 
 ### <a name="bkmk_csp"></a> I have purchased EMS or Microsoft 365 through a Cloud Solution Provider (CSP), do I have rights to use Configuration Manager?
 
-Yes, you have rights to use Configuration Manager to manage clients covered by the EMS license. First download and install the [evaluation software](https://www.microsoft.com/evalcenter/evaluate-system-center-configuration-manager-and-endpoint-protection). Then contact Microsoft Support to obtain the license key.<!--issue472--> When you talk with Microsoft Support, ask them to reference the internal article ID 4033838.<!-- SCCMDocs issue 493 -->
+Yes, you have rights to use Configuration Manager to manage clients covered by the EMS license. First download and install the [evaluation software](https://www.microsoft.com/en-us/evalcenter/evaluate-microsoft-endpoint-configuration-manager). Then contact Microsoft Support to obtain the license key.<!--issue472--> When you talk with Microsoft Support, ask them to reference the internal article ID 4033838.<!-- SCCMDocs issue 493 -->
 
 ### <a name="bkmk_expiration-date"></a> Is my subscription end-date the same as an SA expiration date?
 
